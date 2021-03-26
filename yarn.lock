@@ -2326,10 +2326,10 @@
   resolved "https://registry.npmjs.org/@verdaccio/types/-/types-9.7.2.tgz#060b6b6c6c093c1007ba6bf14020575ade0645e2"
   integrity sha512-zv8sMrghtrzkxfo+IOojZYk/j4D5kmF/DMwXS9GnmObTM2nAOTsBzlOxHHBdHaiOK+cntw2YRYQJAebMG5J5sA==
 
-"@verdaccio/ui-theme@1.12.1":
-  version "1.12.1"
-  resolved "https://registry.verdaccio.org/@verdaccio%2fui-theme/-/ui-theme-1.12.1.tgz#5bfc6ed1a222cec0b8d92ac933c3c976dbce2f3e"
-  integrity sha512-J9UEf6MkKugeq5sFhDfqPPGNy4dTSf3fVYK3Q2hGFQiKXvOw7hqovjz6PVOJRNMymBXb2fJuMPIXx1Br3kwD2Q==
+"@verdaccio/ui-theme@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/@verdaccio/ui-theme/-/ui-theme-3.0.0.tgz#9fc1884f3dc01af82392875e9f32567facccca78"
+  integrity sha512-fp3vgkcZlC/4+ilNavywTddJj2nJcDTHjIq3subz3cUMIiLSiFAwm65pLsRyHjPPRy7GtQZPNQ2vEBIrYMG5Vw==
 
 "@verdaccio/ui-theme@^1.0.0":
   version "1.12.0"
