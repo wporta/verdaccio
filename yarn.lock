@@ -2247,7 +2247,15 @@
     babel-plugin-dynamic-import-node "2.3.3"
     babel-plugin-emotion "10.0.33"
 
-"@verdaccio/commons-api@9.7.1", "@verdaccio/commons-api@^9.3.2", "@verdaccio/commons-api@^9.7.1":
+"@verdaccio/commons-api@10.0.1":
+  version "10.0.1"
+  resolved "https://registry.npmjs.org/@verdaccio/commons-api/-/commons-api-10.0.1.tgz#7217a167e428a7603ff46685c4cc40bb1526e463"
+  integrity sha512-dO/3ocK2Cpx5GZ/HST7YWRMVXAZu5zkDglfcoxEnUh2V9D4detGn0sIDV9nCJJJiO70ZmhuOoA5oeUmrA1lELA==
+  dependencies:
+    http-errors "1.8.0"
+    http-status-codes "1.4.0"
+
+"@verdaccio/commons-api@^9.3.2", "@verdaccio/commons-api@^9.7.1":
   version "9.7.1"
   resolved "https://registry.npmjs.org/@verdaccio/commons-api/-/commons-api-9.7.1.tgz#816f08eb6cb0dbe345f2546428c837be6804796d"
   integrity sha512-s2uD3s325C0UsQ9uQTmf15dXFsGVo23IM6pSUTukCRuurCok89e/k1Adz2CaoXpEu1qpxQ6Sv0dcNpGl7Q7hwQ==
